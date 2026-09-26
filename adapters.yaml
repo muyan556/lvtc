@@ -1,0 +1,8 @@
+adapters:
+  - adapter_id: "LVTC_01"
+    adapter_name: "六安职业技术学院"
+    category: "BACHELOR_AND_ASSOCIATE"
+    asset_js_path: "lvtc.js"
+    import_url: "https://webport.lvtc.edu.cn:8443/"
+    maintainer: "待填写"
+    description: "六安职业技术学院统一信息门户 + 强智教务系统课表适配。完成统一认证后进入强智“个人课表信息”页面，再执行导入。"
